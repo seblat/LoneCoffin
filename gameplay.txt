@@ -1,0 +1,21 @@
+                                                         Friendship: 56%
+                                                         Pullout:    70%
+                                                         Time:     01:23
+
+Allan: "Could you pass me another bear?"
+You: 
+1. You've been drinking a lot lately.
+2. Shure, catch!
+3. We are out of beer.
+Your choice: 3
+"We are out of beer."
+
+Allan: "What are you talking about? I can see them in the fridge!"
+You:
+1. Whoops, you're right.
+2. True, but none for you!
+3. You've got enough already.
+Your choicse: 1
+"Whoops, you're right."
+
+Allan gets up und grabs himself a beer.
